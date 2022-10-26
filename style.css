@@ -68,3 +68,10 @@ header {
     font-size: 14px;
     line-height: 160%;
 }
+
+@keyframes appear {
+    to {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
