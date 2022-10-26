@@ -14,3 +14,24 @@ body * {
   
     text-align: center;
   }
+
+  header {
+    padding: 75px 0;
+  }
+
+  .card {
+    display: inline-block;
+    width: 354px;
+    height: 508px;
+  
+    background-image: url(./assets/bg-explorer.svg);
+  
+    cursor: pointer;
+  
+    opacity: 0;
+    transform: translateY(-100px);
+    animation: appear 0.4s forwards;
+  
+    user-select: none;
+    -webkit-user-select: none;
+  }
