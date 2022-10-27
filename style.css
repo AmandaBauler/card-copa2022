@@ -39,10 +39,7 @@ header {
   .card > img {
     width: 150px;
     height: 150px;
-
-    /* ajuste de imagem no card */
     object-fit: cover;
-
     border-radius: 50%;
     border: 4px solid #f7dd43;
     margin-top: 115px;
