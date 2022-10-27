@@ -7,3 +7,5 @@
 - ``HTML``
 - ``CSS``
 - ``JavaScript``
+
+[📎Clique aqui para acessar o card](https://amandabauler.github.io/card-copa2022/)
